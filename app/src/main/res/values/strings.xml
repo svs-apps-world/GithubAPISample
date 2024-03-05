@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="submit">Submit</string>
+    <string name="enter_a_github_user_id">Enter a github user Id</string>
+    <string name="user_name_unknown">User Name Unknown</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="repo_url">Repo Url</string>
+    <string name="repo_description">Repo Description</string>
+    <string name="star_count">Star count</string>
+    <string name="fork_count">Fork count</string>
+</resources>
